@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\bin\Debug\Pass-Fail Grader.exe.config
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\bin\Debug\Pass-Fail Grader.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\bin\Debug\Pass-Fail Grader.pdb
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\bin\Debug\Pass-Fail Grader.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass_Fail_Grader.Form1.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass_Fail_Grader.Resources.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.vbproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Pass-Fail Grader\Pass-Fail Grader\obj\Debug\Pass-Fail Grader.pdb
